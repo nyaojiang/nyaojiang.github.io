@@ -9,3 +9,7 @@
 [猫妖酱的乳首开发博客](https://nyaojiang.github.io/blogs/)
 
 **文章列表**
+
+- [乳首开发原理的猜想、文献调研和试验](https://nyaojiang.github.io/blogs/post/ru-shou-kai-fa-yuan-li-de-cai-xiang-wen-xian-diao-yan-he-shi-yan/)
+- [窃衣贴在乳首开发中的使用](https://nyaojiang.github.io/blogs/post/qie-yi-tie-zai-ru-shou-kai-fa-zhong-de-shi-yong/)
+- [窃衣贴的长期效果](https://nyaojiang.github.io/blogs/post/qie-yi-tie-de-chang-qi-xiao-guo/)
